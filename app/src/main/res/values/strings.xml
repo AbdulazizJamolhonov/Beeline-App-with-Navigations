@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Beeline</string>
+    <string name="base">&#8734;</string>
+    <string name="resh">&#x23;</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tariflar">Tariflar</string>
+    <string name="ilovalar">Ilovalar</string>
+    <string name="xizmatlar">Xizmatlar</string>
+    <string name="internet">Internet</string>
+    <string name="sms">Sms</string>
+</resources>
